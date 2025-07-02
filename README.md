@@ -1,5 +1,3 @@
-# Git_learning
-
 # Git Commands Reference Guide
 
 ## Repository Setup & Configuration
